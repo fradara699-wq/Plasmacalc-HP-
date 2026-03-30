@@ -1,0 +1,16 @@
+{
+  "name": "PlasmaCalc Hospital",
+  "short_name": "PlasmaCalc",
+  "description": "Calculadora Profesional de Plasmaféresis - Hospital Privado Universitario de Córdoba",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2966/2966327.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
